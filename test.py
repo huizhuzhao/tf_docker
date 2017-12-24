@@ -3,6 +3,7 @@
 # Created Time: 日 12/24 18:31:07 2017
 
 import numpy as np
+import pandas as pd
 import tensorflow as tf
 
 
